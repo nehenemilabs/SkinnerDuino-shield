@@ -1,7 +1,7 @@
 # SkinnerDuino
 An arduino shield controller for operant conditioning chamber (AKA Skinner Box)
 ## Features
-* Control from 2 to 4 Motors
+* Control up to 4 DC Motors
 * Up to 12V
 * 1 PWM 3.3V output
 * Indicator led for each output
