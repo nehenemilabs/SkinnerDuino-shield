@@ -8,3 +8,32 @@ An arduino shield controller for operant conditioning chamber (AKA Skinner Box)
 * 1 I2C connector
 * 4 Analog inputs,
 * 4 Additional IO Ports
+
+
+## Connections
+## Main ports
+
+* PWM Based
+12V
+OUT1 -> 5
+OUT2 -> 6
+OUT3 -> 9
+OUT4 -> 10
+
+3.3V
+OUT5 -> 3
+
+* Analog IO
+A0
+A1
+A2
+A3
+
+* Digital IO (DIO)
+7
+8
+4
+2
+
+* I2C
+SCL SDA GND 5V
