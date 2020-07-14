@@ -33,9 +33,9 @@ Lab A-13 Instituto Neurobiología UNAM
   * A2
   * A3
 * Digital IO (DIO)
-* 7
-* 8
-* 4
-* 2
+  * 7
+  * 8
+  * 4
+  * 2
 * I2C
-* SCL SDA GND 5V
+  * SCL SDA GND 5V
