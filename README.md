@@ -1,5 +1,10 @@
 # SkinnerDuino
 An arduino shield controller for operant conditioning chamber (AKA Skinner Box)
+
+Lab A-13 Instituto Neurobiología UNAM
+
+
+
 ## Features
 * Control up to 4 DC Motors
 * Up to 12V
