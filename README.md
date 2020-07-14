@@ -3,6 +3,8 @@ An arduino shield controller for operant conditioning chamber (AKA Skinner Box)
 
 Lab A-13 Instituto Neurobiología UNAM
 
+![SkinnerDuino](https://raw.githubusercontent.com/nehenemilabs/SkinnerDuino/master/imgs/pcb-0-5b.JPG){:height="250px"}
+
 
 
 ## Features
