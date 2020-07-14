@@ -3,12 +3,12 @@ An arduino shield controller for operant conditioning chamber (AKA Skinner Box)
 
 Lab A-13 Instituto Neurobiología UNAM
 
-![SkinnerDuino](https://raw.githubusercontent.com/nehenemilabs/SkinnerDuino/master/imgs/pcb-0-5b.JPG){:height="250px"}
+![SkinnerDuino](https://raw.githubusercontent.com/nehenemilabs/SkinnerDuino/master/imgs/pcb-0-5b.JPG)
 
 
 
 ## Features
-* Control up to 4 DC Motors
+* Control up to 4 12V DC Motors and 1 3.3V
 * Up to 12V
 * 1 PWM 3.3V output
 * Indicator led for each output
@@ -17,7 +17,7 @@ Lab A-13 Instituto Neurobiología UNAM
 * 4 Additional IO Ports
 
 
-## Connections
+# Connections
 ## Main ports
 
 * PWM Based, 12V
