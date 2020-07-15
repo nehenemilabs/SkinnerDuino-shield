@@ -21,10 +21,10 @@ Lab A-13 Instituto Neurobiología UNAM
 ## Main ports
 
 * PWM Based, 12V
-* OUT1 -> 5
-* OUT2 -> 6
-* OUT3 -> 9
-* OUT4 -> 10
+ * OUT1 -> 5
+ * OUT2 -> 6
+ * OUT3 -> 9
+ * OUT4 -> 10
 
 * 3.3V
   * OUT5 -> 3
