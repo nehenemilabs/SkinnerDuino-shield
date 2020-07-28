@@ -76,7 +76,7 @@ public void controlEvent(ControlEvent event)
     println(int(fldFreq2.getText()));
     vibrate(int(fldFreq2.getText()),1);
     println("end");
-    
+
   } else if (event.getController().getName() == "fill")
   {
     println("filling");
