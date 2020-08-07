@@ -3,7 +3,7 @@ An arduino UNO shield controller for [operant conditioning chamber (AKA Skinner 
 
 Lab A-13 Instituto Neurobiología UNAM
 
-![SkinnerDuino](https://raw.githubusercontent.com/nehenemilabs/SkinnerDuino/master/imgs/pcb-0-5b.JPG){:target="_blank"}
+![SkinnerDuino](https://raw.githubusercontent.com/nehenemilabs/SkinnerDuino/master/imgs/pcb-0-5b.JPG)
 
 
 
