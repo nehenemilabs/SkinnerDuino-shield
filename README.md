@@ -1,5 +1,5 @@
 # SkinnerDuino Shield
-An arduino UNO shield controller for operant conditioning chamber (AKA Skinner Box)
+An arduino UNO shield controller for [operant conditioning chamber (AKA Skinner Box)](https://en.wikipedia.org/wiki/Operant_conditioning_chamber)
 
 Lab A-13 Instituto Neurobiología UNAM
 
