@@ -35,8 +35,8 @@ Lab A-13 Instituto Neurobiología UNAM
   * A2
   * A3
 * Digital IO (DIO)
-  * 7
   * 8
+  * 7
   * 4
   * 2
 * I2C
