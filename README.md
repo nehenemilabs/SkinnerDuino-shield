@@ -1,5 +1,5 @@
 # SkinnerDuino Shield
-An arduino UNO shield controller for operant conditioning chamber (AKA Skinner Box)
+An arduino UNO shield controller for [operant conditioning chamber (AKA Skinner Box)](https://en.wikipedia.org/wiki/Operant_conditioning_chamber)
 
 Lab A-13 Instituto Neurobiología UNAM
 
@@ -8,7 +8,7 @@ Lab A-13 Instituto Neurobiología UNAM
 
 
 ## Features
-* Control up to 4 12V DC Motors and 1 3.3V
+* Control up to 4 12V PWM DC Motors and 1 3.3V
 * Up to 12V
 * 1 PWM 3.3V output
 * Indicator led for each output
