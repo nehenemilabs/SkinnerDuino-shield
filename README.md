@@ -4,10 +4,8 @@ An arduino UNO shield controller for [operant conditioning chamber (AKA Skinner 
 Lab A-13 Instituto Neurobiología UNAM
 
 ![SkinnerDuino](imgs/pcb-0-5b.JPG)
+
 ![OSHWA MX000026](imgs/OSHW_mark_MX000026.png)
-
-
-
 
 ## Features
 * Control up to 4 12V PWM DC Motors and 1 3.3V
